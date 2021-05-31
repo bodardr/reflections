@@ -1,6 +1,6 @@
 {
   "name": "com.bodardr.pooling",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "displayName": "Object Pooling",
   "description": "Caching GameObjects and other components to reduce lag and overload!",
   "unity": "2020.2",
