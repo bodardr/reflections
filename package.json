@@ -1,6 +1,6 @@
 {
   "name": "com.bodardr.graphics.reflections",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "displayName": "Reflections",
   "description": "Real time reflection scripts for graphical purposes.",
   "unity": "2020.2",
