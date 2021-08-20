@@ -5,6 +5,7 @@ using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
 [ExecuteAlways]
+[AddComponentMenu("Effects/Planar Reflection (URP)")]
 public class PlanarReflection : MonoBehaviour
 {
     private int planarReflectionTextureID = Shader.PropertyToID("_PlanarReflectionTexture");
